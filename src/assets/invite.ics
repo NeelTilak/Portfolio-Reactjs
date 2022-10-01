@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//talview.com//Talview//EN
+METHOD:REQUEST
+NAME:Invite
+X-WR-CALNAME:Invite
+TIMEZONE-ID:Asia/Kolkata
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VEVENT
+UID:3317476@talview.com
+SEQUENCE:0
+DTSTAMP:20220925T071332Z
+DTSTART:20220926T103000Z
+DTEND:20220926T113000Z
+SUMMARY:Interview with Tata Consultancy Servies - Campus
+DESCRIPTION:<p>Assessment Name : TCS Campus - Mumbai</p><p>Organization Na
+ me : Tata Consultancy Servies - Campus</p><p>Attend Link : https://talview
+ .page.link/4JvaSiLGfAeuep6cA</p><p>Job Description : <p>This is a Campus R
+ ecruitment process for TCS</p></p><p>Verification Code 559006274</p>
+ORGANIZER;CN="Mumbai Campus":mailto:scheduler+3317476@mg.talview.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;CUTYPE=INDIVIDUAL;PARTSTAT=NEEDS-ACTION;RSVP
+ =TRUE:MAILTO:neeltilak.1998@gmail.com
+STATUS:CONFIRMED
+X-ALT-DESC;FMTTYPE=TEXT/HTML:<p>Assessment Name : TCS Campus - Mumbai</p><
+ p>Organization Name : Tata Consultancy Servies - Campus</p><p>Attend Link 
+ : https://talview.page.link/4JvaSiLGfAeuep6cA</p><p>Job Description : <p>T
+ his is a Campus Recruitment process for TCS</p></p><p>Verification Code 55
+ 9006274</p>
+END:VEVENT
+END:VCALENDAR
